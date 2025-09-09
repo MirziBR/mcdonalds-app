@@ -1,0 +1,58 @@
+🍔 McDONALD'S DEMO APP - PRONTO PARA EXECUTAR! 🍔
+
+═══════════════════════════════════════════════════════════════════
+
+📋 PASSOS PARA EXECUTAR (apenas 3 comandos!):
+
+1️⃣ npm install
+2️⃣ npm start  
+3️⃣ Escaneie QR code com Expo Go no celular
+
+═══════════════════════════════════════════════════════════════════
+
+📱 O QUE O APP TEM:
+
+✅ Tela inicial com promoções
+✅ Cardápio completo com 14+ produtos
+✅ Carrinho de compras funcional  
+✅ Sistema de pedidos
+✅ Tela de perfil e configurações
+✅ Design idêntico ao McDonald's
+✅ Dados realistas (sem backend necessário)
+
+═══════════════════════════════════════════════════════════════════
+
+🚀 COMANDOS:
+
+Abra o Terminal/PowerShell nesta pasta e execute:
+
+npm install
+npm start
+
+Depois baixe "Expo Go" no celular e escaneie o QR code.
+
+═══════════════════════════════════════════════════════════════════
+
+🎯 TESTE ESTAS FUNCIONALIDADES:
+
+• Navegar pelo cardápio  
+• Adicionar produtos ao carrinho
+• Alterar quantidades
+• Fazer um pedido completo
+• Ver histórico de pedidos
+• Filtrar por categorias
+• Buscar produtos
+• Marcar favoritos
+
+═══════════════════════════════════════════════════════════════════
+
+📁 ARQUIVOS IMPORTANTES:
+
+• README.md - Documentação completa
+• COMO-EXECUTAR.md - Guia detalhado  
+• App.js - Arquivo principal
+• src/ - Código fonte completo
+
+═══════════════════════════════════════════════════════════════════
+
+🎉 DIVIRTA-SE TESTANDO O APP! 🎉
