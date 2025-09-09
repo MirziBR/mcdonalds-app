@@ -301,11 +301,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Desenvolvido com ❤️ e React Native**
 
-- 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🐱 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-
----
+- 📧 Email: [josuemariano132@gmail.com](josuemariano132@gmail.com)
 
 ## ⭐ **Curtiu o projeto?**
 
