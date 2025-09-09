@@ -9,8 +9,7 @@ npm install
 
 ### 2️⃣ Iniciar o App  
 ```bash
-
-
+npm start
 ```
 
 ### 3️⃣ Abrir no Celular
